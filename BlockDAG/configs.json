@@ -2,6 +2,7 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "isSkipInvalidProxy": true,
-  "delayEachAccount": [5, 8]
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "doTasks": false
 }
